@@ -180,10 +180,6 @@ main.py                 # Application entry point
 - Regularly update dependencies to patch security vulnerabilities
 - Implement proper input validation and sanitization
 
-## License
-
-MIT License - see LICENSE file for details.
-
 ## Support
 
 For questions, issues, or feature requests, please:
@@ -193,4 +189,3 @@ For questions, issues, or feature requests, please:
 
 ---
 
-**Built with love for the investment community**
