@@ -1,4 +1,4 @@
-# Pitch Desk Analyzer
+# Pitch Desk Analyser
 
 A production-grade, agent-oriented Python app for extracting, analyzing, and enriching company pitch decks (PDF, PPTX) for investment decision-making.
 
