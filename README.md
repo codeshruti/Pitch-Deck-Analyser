@@ -18,7 +18,7 @@ A production-grade, agent-oriented Python app for extracting, analyzing, and enr
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd boxone-pitchdeck-insights
+   cd Pitch-Deck-Analyser 
    ```
 
 2. **Install dependencies**
