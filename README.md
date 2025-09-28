@@ -43,7 +43,7 @@ A production-grade, agent-oriented Python app for extracting, analyzing, and enr
 
 5. **Run the analysis**
    ```bash
-   python main.py your_pitchdeck.pdf
+   python3 main.py your_pitchdeck.pdf
    ```
    
    The analysis will generate a unique output file named `your_pitchdeck_YYYYMMDD_HHMMSS.md` to avoid overwriting previous results.
