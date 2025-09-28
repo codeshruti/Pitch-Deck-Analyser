@@ -1,0 +1,8 @@
+PyPDF2
+python-pptx
+requests
+tqdm
+openrouter
+bs4
+python-dotenv
+pyyaml

@@ -1,0 +1,2 @@
+llm_model: openai/gpt-3.5-turbo           # Change to openai/gpt-4o, mixtral-8x7b, gemini-2-5-flash if needed
+output_file: output.md                     # Base filename pattern - actual output will be unique with timestamp
